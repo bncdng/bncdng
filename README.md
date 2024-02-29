@@ -1,8 +1,8 @@
-### Hello People 👋
+### Hello, I'm Bianca
 
  Pronouns: she/her
  
- I’m currently learning Web Development. 🙃
+ I’m currently learning how to code. 🙃
 
 <!--
 **bncdng/bncdng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
